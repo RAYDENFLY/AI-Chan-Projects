@@ -1,6 +1,6 @@
 const { Client, Collection } = require("discord.js");
 const { config } = require("dotenv");
-const {prefix, token } = require("./config.json")
+const { prefix } = require("./config.json")
 
 const client = new Client({
     disableEveryone: true
