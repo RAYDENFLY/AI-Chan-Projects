@@ -1,6 +1,6 @@
 how to run
 
-1. `npm i discord.js`
+1. `npm i discord.js dotenv`
 2. `node index.js`
 
 |support me|
